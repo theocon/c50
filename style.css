@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(122, 81, 0);
+    border: dotted;
+    border-width: 10px;
+    border-color: blue;
+    text-align: center;
+    border-radius: 50px;
+    color: azure;
+}
+
+.footer{
+   border: groove;
+   border-radius: 40px;
+   border-color: aqua;
+   border-width: 10px;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: rgba(0, 64, 255, 0.861);
+    border: dashed;
+    border-color: bisque;
+}
